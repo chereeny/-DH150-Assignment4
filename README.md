@@ -24,10 +24,10 @@ The limitations of buying and selling in person, which is the traditional method
 ## Step02: Target users 
 
 
-*What are the characteristics of users? *
+*What are the characteristics of users?*
 The demographics of the users will be people who are over 18 since users will need to use a credit card in order to make purchases, and they must have access to a computer. The users will prefer this because people may not necessarily need a new item and a used item will be more resourceful. Used items will also come at a cheaper price, allowing those who prefer cheaper options to buy the same items.
 
-*Where would the users do that activity? *
+*Where would the users do that activity?*
 Users would do this activity anywhere where they have access to a device that can connect to the internet. After deciding on a deal, they will have to find a destination to do their buy and sell exchange. Majority of the users stay within a single area for easier opportunities in finding what they need.
 
 *What would the users do to complete that activity?*
@@ -58,9 +58,9 @@ Some of my observations include:
 
 - To access the **script** for the interview, [click here](https://docs.google.com/document/d/1Vx3RVEZrKyo3Lu3Mwk3F3ueJh2hbIu8spQGWGzxPpe8/edit?usp=sharing)
 
-- To access the **recording**, [click here].()
+- To access the **recording**, [click here](https://drive.google.com/file/d/10tZVsjLdSwiC6DBbzYSN_Plvx6fs2z8u/view?usp=sharing)
 
-- To access the **transcript** of the recording, [click here](https://docs.google.com/document/d/1EqeG-4fNaAi8rnkf6UtuDrWzNzzLXGBqvdPhlsuBF_4/edit?usp=sharing). 
+- To access the **transcript** of the recording, [click here](https://docs.google.com/document/d/1EqeG-4fNaAi8rnkf6UtuDrWzNzzLXGBqvdPhlsuBF_4/edit?usp=sharing)
 
 
 #### Interesting Quotes and insights from the interview:
