@@ -2,7 +2,7 @@
 
 
 
-##Step01: Main design challenge 
+## Step01: Main design challenge 
 
 *What is the main activity your project would support the users?*
 The main activity of this project will support users in trying to buy and sell items in an online marketplace website allowing users within the same area, or worldwide if they choose so, to communicate, discuss, buy, sell items. This will hopefully allow people to buy and sell unwanted items at a cheaper price than retail. However, this activity and interview will mainly focus on the searching and buying aspect of the overall activity. 
@@ -18,7 +18,7 @@ The limitations of buying and selling in person, which is the traditional method
 
 
 
-##Step02: Target users 
+## Step02: Target users 
 
 *What are the characteristics of users? *
 The demographics of the users will be people who are over 18 since users will need to use a credit card in order to make purchases, and they must have access to a computer. The users will prefer this because people may not necessarily need a new item and a used item will be more resourceful. Used items will also come at a cheaper price, allowing those who prefer cheaper options to buy the same items.
@@ -31,11 +31,11 @@ To complete this activity, the user must find an ad for an item they would like 
 
 
 
-##Step03: Research methods
+## Step03: Research methods
 
 This activity will include two different observation methods, **ethnographic field research** and **participatory research**. 
 
-###**Ethnographic research** 
+### **Ethnographic research** 
 This would allow the researchers to see the full process of the activity, from the searching to the actual meet up and exchange of the item. This will allow researchers to see what steps need improvement and what went well. 
 
 Some of my observations include:
@@ -44,5 +44,5 @@ Some of my observations include:
 - When making the exchange, they tend to select public places that are more crowded for safety reasons. 
 - People stay in contact with several vendors in case one or some fall through. 
 
-###**Participatory Research**
+### **Participatory Research**
 
