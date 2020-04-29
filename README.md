@@ -42,7 +42,7 @@ To complete this activity, the user must find an ad for an item they would like 
 This activity will include two different observation methods, **ethnographic field research** and **participatory research**. 
 
 
-### **Ethnographic research** 
+## **Ethnographic research** 
 This would allow the researchers to see the full process of the activity, from the searching to the actual meet up and exchange of the item. This will allow researchers to see what steps need improvement and what went well. 
 
 Some of my observations include:
@@ -52,9 +52,9 @@ Some of my observations include:
 - People stay in contact with several vendors in case one or some fall through. 
 
 
-### **Participatory Research**
+## **Participatory Research**
 
-#### Materials and Data:
+### Materials and Data:
 
 - To access the **script** for the interview, [click here](https://docs.google.com/document/d/1Vx3RVEZrKyo3Lu3Mwk3F3ueJh2hbIu8spQGWGzxPpe8/edit?usp=sharing)
 
@@ -63,7 +63,7 @@ Some of my observations include:
 - To access the **transcript** of the recording, [click here](https://docs.google.com/document/d/1EqeG-4fNaAi8rnkf6UtuDrWzNzzLXGBqvdPhlsuBF_4/edit?usp=sharing)
 
 
-#### Interesting Quotes and insights from the interview:
+### Interesting Quotes and insights from the interview:
 
 
 
