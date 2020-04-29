@@ -66,6 +66,21 @@ Some of my observations include:
 ### Interesting Quotes and insights from the interview:
 
 
+*Participant on the credibleness of a large retail site*
+
+"They’re big and they have something to lose."
+
+
+*How much time do you typically spend looking for items before you make a purchase?*
+
+"Months"
+
+
+*When you make your decision to buy the item, what factors are considered?*
+
+" Price. Availability. How long the new ones will come out? "
+
+
 
 
 ## Reflection
